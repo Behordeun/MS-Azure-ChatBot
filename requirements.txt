@@ -1,0 +1,5 @@
+botbuilder-core>=4.7.0
+aiohttp>=3.6.2
+botbuilder-core
+botbuilder-ai
+flask>=1.1.1
